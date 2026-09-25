@@ -5,7 +5,7 @@ const path = require("path");
 const crypto = require("crypto");
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 const articlesFile = path.join(__dirname, "articles.json");
 
@@ -301,7 +301,7 @@ app.use((req, res) => {
     );
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
 
     console.log(
         `Research Bharat Backend running on http://127.0.0.1:${PORT}`
