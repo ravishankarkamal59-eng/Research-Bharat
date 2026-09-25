@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,initial-scale=1.0">
+
+<title>Research Bharat Admin</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial,sans-serif;
+    background:#f3f4f6;
+    color:#172033;
+}
+
+header{
+    background:#111827;
+    color:white;
+    padding:22px;
+    text-align:center;
+}
+
+.container{
+    max-width:1000px;
+    margin:auto;
+    padding:20px;
+}
+
+.panel{
+    background:white;
+    padding:20px;
+    border-radius:14px;
+    margin-bottom:20px;
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+
+.stats{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+    gap:12px;
+}
+
+.stat{
+    background:#eef2ff;
+    padding:20px;
+    border-radius:12px;
+    text-align:center;
+}
+
+.stat strong{
+    display:block;
+    font-size:28px;
+    margin-top:5px;
+}
+
+input,
+textarea,
+select{
+    width:100%;
+    padding:12px;
+    margin-top:6px;
+    margin-bottom:14px;
+    border:1px solid #d1d5db;
+    border-radius:8px;
+    font-size:15px;
+}
+
+textarea{
+    min-height:130px;
+    resize:vertical;
+}
+
+button{
+    border:0;
+    padding:11px 16px;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.add{
+    background:#111827;
+    color:white;
+}
+
+.edit{
+    background:#2563eb;
+    color:white;
+    margin-right:6px;
+}
+
+.delete{
+    background:#dc2626;
+    color:white;
+}
+
+.cancel{
+    background:#e5e7eb;
+    margin-left:6px;
+}
+
+.article{
+    border:1px solid #e5e7eb;
+    padding:16px;
+    border-radius:10px;
+    margin-top:12px;
+}
+
+.article h3{
+    margin:6px 0;
+}
+
+.category{
+    color:#2563eb;
+    font-size:13px;
+    font-weight:bold;
+}
+
+.message{
+    margin-bottom:15px;
+    font-weight:bold;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Research Bharat Admin</h1>
+<button
+onclick="logout()"
+style="margin-top:12px;background:#dc2626;color:white"
+>
+Logout
+</button>
+
+<p>Article Management Dashboard</p>
+
+</header>
+
+<div class="container">
+
+<div class="panel">
+
+<div class="stats">
+
+<div class="stat">
+Articles
+<strong id="total">0</strong>
+</div>
+
+<div class="stat">
+Current Category
+<strong id="current">All</strong>
+</div>
+
+</div>
+
+</div>
+
+<div class="panel">
+
+<h2 id="formTitle">
+नया Article जोड़ें
+</h2>
+
+<div id="message"
+class="message"></div>
+
+<label>Title</label>
+
+<input
+id="title"
+placeholder="Article title"
+>
+
+<label>Category</label>
+
+<select id="category">
+
+<option>Current Affairs</option>
+<option>International Relations</option>
+<option>Indian Polity</option>
+<option>Political Science</option>
+<option>Fact Check</option>
+
+</select>
+
+<label>Summary</label>
+
+<textarea
+id="summary"
+placeholder="Article का छोटा परिचय"
+></textarea>
+
+<label>Content</label>
+
+<textarea
+id="content"
+placeholder="पूरा article content"
+></textarea>
+
+<label>Date</label>
+
+<input
+id="date"
+type="date"
+>
+
+<label>Tags</label>
+
+<input
+id="tags"
+placeholder="India, Foreign Policy, International Relations"
+>
+
+<label>Key Points</label>
+
+<textarea
+id="keyPoints"
+placeholder="हर महत्वपूर्ण point नई line में लिखें"
+></textarea>
+
+<label>Source</label>
+
+<input
+id="source"
+placeholder="Source / Reference"
+value="Research Bharat"
+>
+
+<button
+class="add"
+onclick="saveArticle()"
+id="saveBtn"
+>
+Article जोड़ें
+</button>
+
+<button
+class="cancel"
+onclick="cancelEdit()"
+id="cancelBtn"
+style="display:none"
+>
+Cancel
+</button>
+
+</div>
+
+<div class="panel">
+
+<h2>Articles</h2>
+
+<div id="articles">
+Loading...
+</div>
+
+</div>
+
+</div>
+
+<script>
+
+const token =
+    localStorage.getItem("researchBharatAdminToken");
+
+if(!token){
+    window.location.href = "/login.html";
+}
+
+async function authFetch(url, options = {}){
+
+    options.headers = {
+        ...(options.headers || {}),
+        "Authorization": token,
+        "Content-Type": "application/json"
+    };
+
+    const response =
+        await fetch(url, options);
+
+    if(response.status === 401){
+
+        localStorage.removeItem(
+            "researchBharatAdminToken"
+        );
+
+        window.location.href =
+            "/login.html";
+
+        return null;
+    }
+
+    return response;
+}
+
+let articles = [];
+let editingId = null;
+
+async function loadArticles(){
+
+    const response =
+        await authFetch("/api/articles");
+
+    const data =
+        await response.json();
+
+    articles =
+        data.articles || [];
+
+    document.getElementById("total")
+        .textContent = articles.length;
+
+    renderArticles();
+}
+
+function renderArticles(){
+
+    const box =
+        document.getElementById("articles");
+
+    box.innerHTML = "";
+
+    if(articles.length === 0){
+
+        box.innerHTML =
+            "<p>कोई article नहीं है।</p>";
+
+        return;
+    }
+
+    articles.forEach(article => {
+
+        const div =
+            document.createElement("div");
+
+        div.className = "article";
+
+        const category =
+            document.createElement("div");
+
+        category.className = "category";
+
+        category.textContent =
+            article.category;
+
+        const title =
+            document.createElement("h3");
+
+        title.textContent =
+            article.title;
+
+        const summary =
+            document.createElement("p");
+
+        summary.textContent =
+            article.summary;
+
+        const edit =
+            document.createElement("button");
+
+        edit.className = "edit";
+
+        edit.textContent = "Edit";
+
+        edit.onclick =
+            () => startEdit(article.id);
+
+        const del =
+            document.createElement("button");
+
+        del.className = "delete";
+
+        del.textContent = "Delete";
+
+        del.onclick =
+            () => deleteArticle(article.id);
+
+        div.appendChild(category);
+        div.appendChild(title);
+        div.appendChild(summary);
+        div.appendChild(edit);
+        div.appendChild(del);
+
+        box.appendChild(div);
+    });
+}
+
+async function saveArticle(){
+
+    const data = {
+
+        title:
+            document.getElementById("title").value,
+
+        category:
+            document.getElementById("category").value,
+
+        summary:
+            document.getElementById("summary").value,
+
+        content:
+            document.getElementById("content").value,
+
+        source:
+            document.getElementById("source").value,
+
+        date:
+            document.getElementById("date").value,
+
+        tags:
+            document.getElementById("tags").value
+                .split(",")
+                .map(x => x.trim())
+                .filter(Boolean),
+
+        keyPoints:
+            document.getElementById("keyPoints").value
+                .split("\n")
+                .map(x => x.trim())
+                .filter(Boolean)
+
+    };
+
+    if(
+        !data.title ||
+        !data.summary ||
+        !data.content
+    ){
+
+        showMessage(
+            "Title, Summary और Content जरूरी हैं।"
+        );
+
+        return;
+    }
+
+    let response;
+
+    if(editingId){
+
+        response =
+            await authFetch(
+                "/api/articles/" + editingId,
+                {
+                    method:"PUT",
+                    headers:{
+                        "Content-Type":
+                            "application/json"
+                    },
+                    body:JSON.stringify(data)
+                }
+            );
+
+    }else{
+
+        response =
+            await authFetch(
+                "/api/articles",
+                {
+                    method:"POST",
+                    headers:{
+                        "Content-Type":
+                            "application/json"
+                    },
+                    body:JSON.stringify(data)
+                }
+            );
+    }
+
+    const result =
+        await response.json();
+
+    if(result.success){
+
+        showMessage(
+            editingId
+            ? "Article update हो गया।"
+            : "Article add हो गया।"
+        );
+
+        clearForm();
+
+        await loadArticles();
+
+    }else{
+
+        showMessage(
+            result.message || "कुछ गलत हुआ।"
+        );
+    }
+}
+
+function startEdit(id){
+
+    const article =
+        articles.find(
+            item => item.id === id
+        );
+
+    if(!article) return;
+
+    editingId = id;
+
+    document.getElementById("title")
+        .value = article.title;
+
+    document.getElementById("category")
+        .value = article.category;
+
+    document.getElementById("summary")
+        .value = article.summary;
+
+    document.getElementById("content")
+        .value = article.content;
+
+    document.getElementById("source")
+        .value = article.source || "";
+
+    document.getElementById("date")
+        .value = article.date || "";
+
+    document.getElementById("tags")
+        .value = (article.tags || []).join(", ");
+
+    document.getElementById("keyPoints")
+        .value = (article.keyPoints || []).join("\n");
+
+    document.getElementById("formTitle")
+        .textContent = "Article Edit करें";
+
+    document.getElementById("saveBtn")
+        .textContent = "Update Article";
+
+    document.getElementById("cancelBtn")
+        .style.display = "inline-block";
+
+    window.scrollTo({
+        top:0,
+        behavior:"smooth"
+    });
+}
+
+async function deleteArticle(id){
+
+    if(!confirm(
+        "क्या आप इस article को delete करना चाहते हैं?"
+    )){
+        return;
+    }
+
+    const response =
+        await authFetch(
+            "/api/articles/" + id,
+            {
+                method:"DELETE"
+            }
+        );
+
+    const result =
+        await response.json();
+
+    if(result.success){
+
+        await loadArticles();
+
+        showMessage(
+            "Article delete हो गया।"
+        );
+
+    }else{
+
+        showMessage(
+            result.message ||
+            "Delete नहीं हुआ।"
+        );
+    }
+}
+
+function clearForm(){
+
+    document.getElementById("title")
+        .value = "";
+
+    document.getElementById("summary")
+        .value = "";
+
+    document.getElementById("content")
+        .value = "";
+
+    document.getElementById("source")
+        .value = "Research Bharat";
+
+    editingId = null;
+
+    document.getElementById("formTitle")
+        .textContent =
+        "नया Article जोड़ें";
+
+    document.getElementById("saveBtn")
+        .textContent =
+        "Article जोड़ें";
+
+    document.getElementById("cancelBtn")
+        .style.display =
+        "none";
+}
+
+function cancelEdit(){
+
+    clearForm();
+}
+
+function showMessage(message){
+
+    document.getElementById("message")
+        .textContent = message;
+
+    setTimeout(() => {
+
+        document.getElementById("message")
+            .textContent = "";
+
+    },3000);
+}
+
+async function logout(){
+
+    await authFetch(
+        "/api/logout",
+        {
+            method:"POST"
+        }
+    );
+
+    localStorage.removeItem(
+        "researchBharatAdminToken"
+    );
+
+    window.location.href =
+        "/login.html";
+}
+
+loadArticles();
+
+</script>
+
+</body>
+</html>

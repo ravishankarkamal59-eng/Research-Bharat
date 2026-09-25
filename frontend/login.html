@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,initial-scale=1.0">
+
+<title>Research Bharat Admin Login</title>
+
+<style>
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:Arial,sans-serif;
+    background:#111827;
+    padding:20px;
+}
+
+.box{
+    width:100%;
+    max-width:400px;
+    background:white;
+    padding:30px;
+    border-radius:16px;
+    box-shadow:0 10px 30px rgba(0,0,0,.3);
+}
+
+h1{
+    text-align:center;
+    margin-bottom:8px;
+}
+
+p{
+    text-align:center;
+    color:#6b7280;
+    margin-bottom:25px;
+}
+
+input{
+    width:100%;
+    padding:14px;
+    margin-bottom:15px;
+    border:1px solid #d1d5db;
+    border-radius:8px;
+    font-size:16px;
+}
+
+button{
+    width:100%;
+    padding:14px;
+    border:0;
+    border-radius:8px;
+    background:#111827;
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+}
+
+#error{
+    color:#dc2626;
+    text-align:center;
+    margin-top:15px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="box">
+
+<h1>Research Bharat</h1>
+
+<p>Admin Login</p>
+
+<input
+id="username"
+placeholder="Username"
+autocomplete="username"
+>
+
+<input
+id="password"
+type="password"
+placeholder="Password"
+autocomplete="current-password"
+>
+
+<button onclick="login()">
+Login
+</button>
+
+<div id="error"></div>
+
+</div>
+
+<script>
+
+async function login(){
+
+    const username =
+        document.getElementById("username").value;
+
+    const password =
+        document.getElementById("password").value;
+
+    const error =
+        document.getElementById("error");
+
+    error.textContent = "";
+
+    try{
+
+        const response =
+            await fetch("/api/login",{
+                method:"POST",
+                headers:{
+                    "Content-Type":"application/json"
+                },
+                body:JSON.stringify({
+                    username,
+                    password
+                })
+            });
+
+        const data =
+            await response.json();
+
+        if(!data.success){
+
+            error.textContent =
+                data.message;
+
+            return;
+        }
+
+        localStorage.setItem(
+            "researchBharatAdminToken",
+            data.token
+        );
+
+        window.location.href =
+            "/admin.html";
+
+    }catch(e){
+
+        error.textContent =
+            "Server से connection नहीं हो पाया।";
+    }
+}
+
+</script>
+
+</body>
+</html>

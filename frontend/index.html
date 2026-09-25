@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<title>Research Bharat</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial,sans-serif;
+    background:#f3f4f6;
+    color:#172033;
+}
+
+header{
+    background:#111827;
+    color:white;
+    padding:25px 15px;
+    text-align:center;
+}
+
+header h1{
+    font-size:32px;
+}
+
+header p{
+    margin-top:8px;
+    color:#d1d5db;
+    font-size:15px;
+}
+
+nav{
+    background:white;
+    padding:13px;
+    display:flex;
+    gap:10px;
+    overflow-x:auto;
+    border-bottom:1px solid #ddd;
+}
+
+nav button{
+    border:0;
+    background:#eef2ff;
+    color:#172033;
+    padding:9px 14px;
+    border-radius:20px;
+    white-space:nowrap;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+nav button:hover{
+    background:#dbeafe;
+}
+
+.container{
+    max-width:1050px;
+    margin:auto;
+    padding:20px;
+}
+
+.hero{
+    background:white;
+    padding:28px;
+    border-radius:15px;
+    box-shadow:0 3px 12px rgba(0,0,0,.08);
+    margin-bottom:20px;
+}
+
+.hero h2{
+    font-size:25px;
+    margin-bottom:10px;
+}
+
+.hero p{
+    line-height:1.7;
+}
+
+.search{
+    width:100%;
+    padding:15px;
+    border:1px solid #ddd;
+    border-radius:10px;
+    font-size:16px;
+    margin-bottom:20px;
+}
+
+.categories{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+    gap:12px;
+    margin-bottom:30px;
+}
+
+.category{
+    background:white;
+    padding:20px 10px;
+    border-radius:12px;
+    text-align:center;
+    box-shadow:0 2px 8px rgba(0,0,0,.07);
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.category:hover{
+    transform:translateY(-2px);
+}
+
+#articles{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:18px;
+    margin-top:15px;
+}
+
+.article{
+    background:white;
+    padding:20px;
+    border-radius:13px;
+    box-shadow:0 2px 9px rgba(0,0,0,.08);
+}
+
+.article-date{
+    display:block;
+    margin:8px 0;
+    font-size:13px;
+    color:#6b7280;
+}
+
+.article-tags{
+    margin:8px 0 12px;
+    font-size:13px;
+    color:#2563eb;
+    line-height:1.6;
+}
+
+#modalContent ul{
+    margin:10px 0 18px 20px;
+    padding:0;
+}
+
+#modalContent li{
+    margin-bottom:8px;
+    line-height:1.5;
+}
+
+.article h3{
+    margin:8px 0 10px;
+    line-height:1.4;
+}
+
+.category-name{
+    color:#2563eb;
+    font-size:13px;
+    font-weight:bold;
+}
+
+.article p{
+    line-height:1.6;
+    color:#4b5563;
+}
+
+.read{
+    margin-top:15px;
+    border:0;
+    background:#111827;
+    color:white;
+    padding:10px 15px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.modal{
+    display:none;
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,.65);
+    padding:20px;
+    overflow:auto;
+}
+
+.modal-box{
+    background:white;
+    max-width:700px;
+    margin:40px auto;
+    padding:25px;
+    border-radius:15px;
+}
+
+.modal-box h2{
+    margin:10px 0;
+}
+
+.modal-box p{
+    line-height:1.8;
+    margin-top:12px;
+}
+
+.close{
+    float:right;
+    border:0;
+    background:#eee;
+    padding:8px 12px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.source{
+    margin-top:20px;
+    font-size:14px;
+    color:#6b7280;
+}
+
+footer{
+    margin-top:40px;
+    padding:30px;
+    text-align:center;
+    background:#111827;
+    color:white;
+}
+
+@media(max-width:600px){
+    header h1{
+        font-size:27px;
+    }
+
+    .container{
+        padding:14px;
+    }
+
+    .hero{
+        padding:20px;
+    }
+}
+</style>
+    <meta name="description" content="Research Bharat पर Current Affairs, Political Science, International Relations, Indian Polity और Competitive Exams से जुड़ी हिंदी में शोधपरक जानकारी पढ़ें।">
+    <meta name="keywords" content="Research Bharat, Current Affairs Hindi, Political Science Hindi, International Relations, Indian Polity, Competitive Exams, Political Research">
+    <meta name="author" content="Research Bharat">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#111827">
+
+    <meta property="og:title" content="Research Bharat - Current Affairs & Political Research">
+    <meta property="og:description" content="Current Affairs, Political Science, International Relations और Research सामग्री हिंदी में।">
+    <meta property="og:type" content="website">
+
+</head>
+
+<body>
+
+<header>
+    <h1>Research Bharat</h1>
+    <p>Research • Current Affairs • Political Science • International Relations</p>
+</header>
+
+<nav>
+    <button onclick="filterCategory('All')">Home</button>
+    <button onclick="filterCategory('Current Affairs')">Current Affairs</button>
+    <button onclick="filterCategory('International Relations')">International Relations</button>
+    <button onclick="filterCategory('Indian Polity')">Indian Polity</button>
+    <button onclick="filterCategory('Political Science')">Political Science</button>
+    <button onclick="filterCategory('Fact Check')">Fact Check</button>
+</nav>
+
+<div class="container">
+
+<section class="hero">
+    <h2>भारत और दुनिया को समझिए</h2>
+    <p>
+        Research Bharat पर Current Affairs, International Relations,
+        Indian Polity, Political Science और Fact Check को
+        आसान भाषा में समझने की कोशिश की जाती है।
+    </p>
+</section>
+
+<input
+    id="search"
+    class="search"
+    type="search"
+    placeholder="🔎 Article खोजें..."
+    oninput="renderArticles()"
+>
+
+<section class="categories">
+
+    <div class="category" onclick="filterCategory('Current Affairs')">
+        📰<br>Current Affairs
+    </div>
+
+    <div class="category" onclick="filterCategory('International Relations')">
+        🌍<br>International Relations
+    </div>
+
+    <div class="category" onclick="filterCategory('Indian Polity')">
+        🏛️<br>Indian Polity
+    </div>
+
+    <div class="category" onclick="filterCategory('Political Science')">
+        📚<br>Political Science
+    </div>
+
+    <div class="category" onclick="filterCategory('Fact Check')">
+        🔎<br>Fact Check
+    </div>
+
+</section>
+
+<h2>Latest Research</h2>
+
+<div id="articles">
+    <p>Articles loading...</p>
+</div>
+
+</div>
+
+<div id="modal" class="modal" onclick="closeModal(event)">
+    <div class="modal-box">
+        <button class="close" onclick="closeModal()">✕</button>
+        <div id="modalContent"></div>
+    </div>
+</div>
+
+<footer>
+    © 2026 Research Bharat
+</footer>
+
+<script>
+
+let allArticles = [];
+let selectedCategory = "All";
+
+async function loadArticles(){
+
+    try{
+
+        const response = await fetch("/api/articles");
+        const data = await response.json();
+
+        if(!data.success){
+            throw new Error("Articles load नहीं हुए");
+        }
+
+        allArticles = data.articles;
+
+        renderArticles();
+
+    }catch(error){
+
+        document.getElementById("articles").innerHTML =
+            "<p>Articles load नहीं हो पाए। Backend check करें।";
+
+        console.error(error);
+    }
+}
+
+function filterCategory(category){
+
+    selectedCategory = category;
+    renderArticles();
+
+    window.scrollTo({
+        top:document.getElementById("articles").offsetTop - 20,
+        behavior:"smooth"
+    });
+}
+
+function renderArticles(){
+
+    const box = document.getElementById("articles");
+    const search = document
+        .getElementById("search")
+        .value
+        .toLowerCase()
+        .trim();
+
+    const filtered = allArticles.filter(article => {
+
+        const categoryMatch =
+            selectedCategory === "All" ||
+            article.category === selectedCategory;
+
+        const tagsText =
+            (article.tags || []).join(" ").toLowerCase();
+
+        const keyPointsText =
+            (article.keyPoints || []).join(" ").toLowerCase();
+
+        const searchMatch =
+            !search ||
+            article.title.toLowerCase().includes(search) ||
+            article.summary.toLowerCase().includes(search) ||
+            article.category.toLowerCase().includes(search) ||
+            tagsText.includes(search) ||
+            keyPointsText.includes(search);
+
+        return categoryMatch && searchMatch;
+    });
+
+    box.innerHTML = "";
+
+    if(filtered.length === 0){
+        box.innerHTML =
+            "<p>कोई article नहीं मिला।</p>";
+        return;
+    }
+
+    filtered.forEach(article => {
+
+        const div = document.createElement("div");
+        div.className = "article";
+
+        const category = document.createElement("div");
+        category.className = "category-name";
+        category.textContent = article.category;
+
+        const title = document.createElement("h3");
+        title.textContent = article.title;
+
+        const summary = document.createElement("p");
+        summary.textContent = article.summary;
+
+        const date = document.createElement("small");
+        date.className = "article-date";
+        date.textContent = article.date ? "📅 " + article.date : "";
+
+        const tags = document.createElement("div");
+        tags.className = "article-tags";
+        tags.textContent = article.tags && article.tags.length
+            ? "🏷️ " + article.tags.join(" • ")
+            : "";
+
+        const button = document.createElement("button");
+        button.className = "read";
+        button.textContent = "पूरा पढ़ें";
+
+        button.onclick = () => { window.location.href = "/article/" + article.id; };
+
+        div.appendChild(category);
+        div.appendChild(title);
+        div.appendChild(date);
+        div.appendChild(summary);
+        div.appendChild(tags);
+        div.appendChild(button);
+
+        box.appendChild(div);
+    });
+}
+
+function openArticle(id){
+
+    const article = allArticles.find(
+        item => item.id === id
+    );
+
+    if(!article) return;
+
+    document.getElementById("modalContent").innerHTML = "";
+
+    const category = document.createElement("div");
+    category.className = "category-name";
+    category.textContent = article.category;
+
+    const title = document.createElement("h2");
+    title.textContent = article.title;
+
+    const date = document.createElement("div");
+    date.className = "article-date";
+    date.textContent = article.date ? "📅 " + article.date : "";
+
+    const content = document.createElement("p");
+    content.textContent = article.content;
+
+    const tags = document.createElement("div");
+    tags.className = "article-tags";
+    tags.textContent = article.tags && article.tags.length
+        ? "🏷️ " + article.tags.join(" • ")
+        : "";
+
+    const keyTitle = document.createElement("h3");
+    keyTitle.textContent = article.keyPoints && article.keyPoints.length
+        ? "मुख्य बिंदु"
+        : "";
+
+    const keyList = document.createElement("ul");
+
+    if(article.keyPoints && article.keyPoints.length){
+        article.keyPoints.forEach(point => {
+            const li = document.createElement("li");
+            li.textContent = point;
+            keyList.appendChild(li);
+        });
+    }
+
+    const source = document.createElement("div");
+    source.className = "source";
+    source.textContent = "Source: " + (article.source || "Research Bharat");
+
+    const box = document.getElementById("modalContent");
+
+    box.appendChild(category);
+    box.appendChild(title);
+    box.appendChild(date);
+    box.appendChild(tags);
+    box.appendChild(content);
+
+    if(article.keyPoints && article.keyPoints.length){
+        box.appendChild(keyTitle);
+        box.appendChild(keyList);
+    }
+
+    box.appendChild(source);
+
+    document.getElementById("modal").style.display = "block";
+}
+
+function closeModal(event){
+
+    if(
+        !event ||
+        event.target.id === "modal"
+    ){
+        document.getElementById("modal").style.display = "none";
+    }
+}
+
+loadArticles();
+
+</script>
+
+
+<footer style="
+    margin-top:40px;
+    padding:25px 15px;
+    background:#111827;
+    color:white;
+    text-align:center;
+">
+    <div style="
+        display:flex;
+        justify-content:center;
+        flex-wrap:wrap;
+        gap:15px;
+        margin-bottom:12px;
+    ">
+        <a href="/about.html" style="color:white;text-decoration:none;">About</a>
+        <a href="/contact.html" style="color:white;text-decoration:none;">Contact</a>
+        <a href="/privacy.html" style="color:white;text-decoration:none;">Privacy Policy</a>
+        <a href="/terms.html" style="color:white;text-decoration:none;">Terms & Conditions</a>
+        <a href="/disclaimer.html" style="color:white;text-decoration:none;">Disclaimer</a>
+    </div>
+
+    <div style="font-size:13px;color:#d1d5db;">
+        © 2026 Research Bharat. All Rights Reserved.
+    </div>
+</footer>
+
+</body>
+</html>
