@@ -152,13 +152,18 @@ h1{
 
 async function loadArticle(){
 
-    const parts =
-        window.location.pathname.split("/").filter(Boolean);
+    const pathname = window.location.pathname;
+
+    const pathMatch =
+        pathname.match(/\/article\/([^/]+)/);
+
+    const queryId =
+        new URLSearchParams(window.location.search).get("id");
 
     const id =
-        parts.length > 1 && parts[0] === "article"
-        ? parts[1]
-        : new URLSearchParams(window.location.search).get("id");
+        pathMatch
+        ? decodeURIComponent(pathMatch[1])
+        : queryId;
 
     const box =
         document.getElementById("article");
