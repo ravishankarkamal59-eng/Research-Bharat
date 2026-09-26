@@ -339,7 +339,7 @@ async function loadArticles(){
 
     try{
 
-        const response = await fetch("/api/articles");
+        const response = await fetch("https://research-bharat-backend.onrender.com/api/articles");
         const data = await response.json();
 
         if(!data.success){

@@ -281,6 +281,7 @@ if(!token){
     window.location.href = "/login.html";
 }
 
+const API_BASE = "https://research-bharat-backend.onrender.com";
 async function authFetch(url, options = {}){
 
     options.headers = {
@@ -290,7 +291,7 @@ async function authFetch(url, options = {}){
     };
 
     const response =
-        await fetch(url, options);
+        await fetch(API_BASE + url, options);
 
     if(response.status === 401){
 

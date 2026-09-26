@@ -174,7 +174,7 @@ async function loadArticle(){
     try{
 
         const response =
-            await fetch("/api/articles/" + id);
+            await fetch("https://research-bharat-backend.onrender.com/api/articles/" + id);
 
         const data =
             await response.json();
