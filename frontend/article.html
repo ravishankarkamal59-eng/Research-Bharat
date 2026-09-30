@@ -5,6 +5,18 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title id="pageTitle">Research Bharat - Article</title>
 <meta id="pageDescription" name="description" content="Research Bharat पर शोधपरक जानकारी पढ़ें।">
+
+<meta id="canonicalTag" rel="canonical" href="https://research-bharat.pages.dev/">
+
+<meta id="ogTitle" property="og:title" content="Research Bharat - Article">
+<meta id="ogDescription" property="og:description" content="Research Bharat पर शोधपरक जानकारी पढ़ें।">
+<meta id="ogUrl" property="og:url" content="https://research-bharat.pages.dev/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Research Bharat">
+
+<meta name="twitter:card" content="summary">
+<meta id="twitterTitle" name="twitter:title" content="Research Bharat - Article">
+<meta id="twitterDescription" name="twitter:description" content="Research Bharat पर शोधपरक जानकारी पढ़ें।">
 <meta id="canonical" rel="canonical" href="https://research-bharat.pages.dev/">
 <meta id="ogTitle" property="og:title" content="Research Bharat - Article">
 <meta id="ogDescription" property="og:description" content="Research Bharat पर शोधपरक जानकारी पढ़ें।">
@@ -201,6 +213,57 @@ async function loadArticle(){
 
         document.title =
             article.title + " - Research Bharat";
+
+        const canonicalUrl =
+            window.location.origin + window.location.pathname;
+
+        const canonicalTag =
+            document.getElementById("canonicalTag");
+
+        if (canonicalTag) {
+            canonicalTag.setAttribute("href", canonicalUrl);
+        }
+
+        const ogTitle =
+            document.getElementById("ogTitle");
+
+        const ogDescription =
+            document.getElementById("ogDescription");
+
+        const ogUrl =
+            document.getElementById("ogUrl");
+
+        const twitterTitle =
+            document.getElementById("twitterTitle");
+
+        const twitterDescription =
+            document.getElementById("twitterDescription");
+
+        if (ogTitle) {
+            ogTitle.setAttribute("content", article.title);
+        }
+
+        if (ogDescription) {
+            ogDescription.setAttribute(
+                "content",
+                article.summary || "Research Bharat पर शोधपरक जानकारी पढ़ें।"
+            );
+        }
+
+        if (ogUrl) {
+            ogUrl.setAttribute("content", canonicalUrl);
+        }
+
+        if (twitterTitle) {
+            twitterTitle.setAttribute("content", article.title);
+        }
+
+        if (twitterDescription) {
+            twitterDescription.setAttribute(
+                "content",
+                article.summary || "Research Bharat पर शोधपरक जानकारी पढ़ें।"
+            );
+        }
 
         const metaDescription =
             document.getElementById("pageDescription");
