@@ -408,5 +408,180 @@ loadArticle();
 
 </script>
 
+
+<!-- RB-QUALITY-UPGRADE-START -->
+
+<style>
+.rb-quality-box{
+    max-width:1000px;
+    margin:25px auto;
+    padding:20px;
+    background:#ffffff;
+    border-radius:16px;
+    box-shadow:0 4px 18px rgba(0,0,0,.08);
+    line-height:1.7;
+}
+.rb-related-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:14px;
+    margin-top:15px;
+}
+.rb-related-card{
+    display:block;
+    padding:15px;
+    background:#f8fafc;
+    border-radius:12px;
+    text-decoration:none;
+    color:#111827;
+    border:1px solid #e5e7eb;
+}
+.rb-related-card:hover{
+    transform:translateY(-2px);
+}
+</style>
+
+<div id="rbQualityBox"
+     class="rb-quality-box"
+     style="display:none;">
+
+    <div id="rbArticleMeta"></div>
+
+    <div id="rbRelated"></div>
+
+</div>
+
+<script>
+(async function(){
+
+    try {
+
+        const pathParts =
+            window.location.pathname
+            .split("/")
+            .filter(Boolean);
+
+        let id =
+            pathParts[
+                pathParts.length - 1
+            ];
+
+        if (
+            !id ||
+            isNaN(Number(id))
+        ) {
+
+            const params =
+                new URLSearchParams(
+                    window.location.search
+                );
+
+            id =
+                params.get("id");
+        }
+
+        if (!id) return;
+
+        const response =
+            await fetch(
+                "https://research-bharat-backend.onrender.com/api/articles/" +
+                encodeURIComponent(id)
+            );
+
+        if (!response.ok) return;
+
+        const data =
+            await response.json();
+
+        if (
+            !data.success ||
+            !data.article
+        ) return;
+
+        const article =
+            data.article;
+
+        const box =
+            document.getElementById(
+                "rbQualityBox"
+            );
+
+        const meta =
+            document.getElementById(
+                "rbArticleMeta"
+            );
+
+        const related =
+            document.getElementById(
+                "rbRelated"
+            );
+
+        if (!box) return;
+
+        meta.innerHTML = `
+            <p style="margin:0 0 8px;">
+                <strong>लेखक:</strong>
+                ${article.author || "Research Bharat Editorial Team"}
+            </p>
+
+            <p style="margin:0 0 8px;">
+                <strong>पढ़ने का अनुमानित समय:</strong>
+                ${article.readingTime || 1} मिनट
+            </p>
+
+            <p style="margin:0;">
+                <strong>अंतिम अपडेट:</strong>
+                ${article.lastUpdated || article.date || ""}
+            </p>
+        `;
+
+        const relatedArticles =
+            Array.isArray(
+                article.relatedArticles
+            )
+                ? article.relatedArticles
+                : [];
+
+        if (relatedArticles.length) {
+
+            related.innerHTML =
+                "<h3>संबंधित लेख</h3>" +
+                '<div class="rb-related-grid">' +
+
+                relatedArticles
+                    .map(item => `
+                        <a class="rb-related-card"
+                           href="/article/${item.id}">
+                            <strong>
+                                ${item.title}
+                            </strong>
+                            <br>
+                            <small>
+                                ${item.category || ""}
+                            </small>
+                        </a>
+                    `)
+                    .join("") +
+
+                "</div>";
+        }
+
+        box.style.display =
+            "block";
+
+    } catch(error) {
+
+        console.log(
+            "Quality enhancement:",
+            error
+        );
+
+    }
+
+})();
+</script>
+
+<!-- RB-QUALITY-UPGRADE-END -->
+
 </body>
 </html>

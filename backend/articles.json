@@ -14,6 +14,21 @@
       "भारत की विदेश नीति",
       "Strategic Autonomy",
       "Indo-Pacific"
+    ],
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-23",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 7,
+        "title": "Current Affairs पढ़ने का सही तरीका",
+        "category": "Current Affairs"
+      },
+      {
+        "id": 1790755997557,
+        "title": "Current Affairs कैसे पढ़ें? प्रतियोगी परीक्षाओं और Political Science के लिए सही तरीका",
+        "category": "Current Affairs"
+      }
     ]
   },
   {
@@ -22,7 +37,34 @@
     "category": "International Relations",
     "summary": "अंतरराष्ट्रीय संबंध देशों के बीच सहयोग, प्रतिस्पर्धा और कूटनीति को समझने का महत्वपूर्ण क्षेत्र है।",
     "content": "International Relations में देशों के बीच संबंध, विदेश नीति, कूटनीति, अंतरराष्ट्रीय संस्थाएं, सुरक्षा, व्यापार और वैश्विक राजनीति जैसे विषयों का अध्ययन किया जाता है।",
-    "source": "Research Bharat"
+    "source": "Research Bharat",
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "tags": [],
+    "keyPoints": [],
+    "relatedArticles": [
+      {
+        "id": 6,
+        "title": "भारत की विदेश नीति का अध्ययन",
+        "category": "International Relations"
+      },
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "id": 3,
@@ -30,7 +72,34 @@
     "category": "Indian Polity",
     "summary": "भारतीय राजनीतिक व्यवस्था को समझने के लिए संविधान की भूमिका महत्वपूर्ण है।",
     "content": "भारतीय संविधान देश की शासन व्यवस्था, नागरिकों के अधिकार, संस्थाओं और केंद्र तथा राज्यों के बीच शक्तियों के वितरण के लिए मूल कानूनी ढांचा प्रदान करता है।",
-    "source": "Research Bharat"
+    "source": "Research Bharat",
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "tags": [],
+    "keyPoints": [],
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "id": 4,
@@ -38,7 +107,34 @@
     "category": "Political Science",
     "summary": "राज्य, सत्ता, सरकार और राजनीतिक संस्थाओं का व्यवस्थित अध्ययन Political Science का प्रमुख हिस्सा है।",
     "content": "Political Science में राज्य, सरकार, सत्ता, राजनीतिक विचारधाराएं, संस्थाएं, राजनीतिक व्यवहार और अंतरराष्ट्रीय राजनीति जैसे विषयों का अध्ययन किया जाता है।",
-    "source": "Research Bharat"
+    "source": "Research Bharat",
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "tags": [],
+    "keyPoints": [],
+    "relatedArticles": [
+      {
+        "id": 8,
+        "title": "Research Article कैसे लिखा जाता है?",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041777,
+        "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592754,
+        "title": "Political Parties क्या हैं? लोकतंत्र में संगठन, विचार और प्रतिनिधित्व की भूमिका",
+        "category": "Political Science"
+      }
+    ]
   },
   {
     "id": 5,
@@ -46,7 +142,13 @@
     "category": "Fact Check",
     "summary": "सोशल मीडिया के दौर में किसी दावे को साझा करने से पहले उसके स्रोत की जांच करना जरूरी है।",
     "content": "Fact Check का उद्देश्य किसी दावे की सत्यता को उपलब्ध विश्वसनीय स्रोतों, आधिकारिक दस्तावेजों और अन्य प्रमाणों के आधार पर जांचना है। किसी भी दावे को बिना सत्यापन के तथ्य मानना उचित नहीं है।",
-    "source": "Research Bharat"
+    "source": "Research Bharat",
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "tags": [],
+    "keyPoints": [],
+    "relatedArticles": []
   },
   {
     "id": 6,
@@ -54,7 +156,34 @@
     "category": "International Relations",
     "summary": "भारत की विदेश नीति को समझने में राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और कूटनीति जैसे तत्व महत्वपूर्ण हैं।",
     "content": "भारत की विदेश नीति का अध्ययन करते समय राष्ट्रीय हित, क्षेत्रीय सुरक्षा, आर्थिक संबंध, बहुपक्षीय संस्थाएं और विभिन्न देशों के साथ द्विपक्षीय संबंधों को अलग-अलग आयामों से देखा जा सकता है।",
-    "source": "Research Bharat"
+    "source": "Research Bharat",
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "tags": [],
+    "keyPoints": [],
+    "relatedArticles": [
+      {
+        "id": 2,
+        "title": "International Relations को समझना क्यों जरूरी है?",
+        "category": "International Relations"
+      },
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "id": 7,
@@ -62,7 +191,24 @@
     "category": "Current Affairs",
     "summary": "समाचार पढ़ते समय घटना, पृष्ठभूमि, स्रोत और उसके प्रभाव को अलग-अलग समझना उपयोगी होता है।",
     "content": "Current Affairs की तैयारी या अध्ययन करते समय केवल headline पढ़ने के बजाय घटना की पृष्ठभूमि, संबंधित आधिकारिक जानकारी, विभिन्न पक्षों के बयान और उपलब्ध प्रमाणों को देखना अधिक उपयोगी होता है।",
-    "source": "Research Bharat"
+    "source": "Research Bharat",
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "tags": [],
+    "keyPoints": [],
+    "relatedArticles": [
+      {
+        "id": 1,
+        "title": "Research Bharat में आपका स्वागत है",
+        "category": "Current Affairs"
+      },
+      {
+        "id": 1790755997557,
+        "title": "Current Affairs कैसे पढ़ें? प्रतियोगी परीक्षाओं और Political Science के लिए सही तरीका",
+        "category": "Current Affairs"
+      }
+    ]
   },
   {
     "id": 8,
@@ -70,7 +216,34 @@
     "category": "Political Science",
     "summary": "एक अच्छे research article में स्पष्ट प्रश्न, प्रमाण, विश्लेषण और स्रोतों का महत्व होता है।",
     "content": "Research article लिखते समय विषय को स्पष्ट रूप से निर्धारित करें, research question बनाएं, विश्वसनीय स्रोत एकत्र करें, तथ्यों और विश्लेषण को अलग रखें तथा अंत में sources को व्यवस्थित रूप से प्रस्तुत करें।",
-    "source": "Research Bharat"
+    "source": "Research Bharat",
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "tags": [],
+    "keyPoints": [],
+    "relatedArticles": [
+      {
+        "id": 4,
+        "title": "Political Science क्या है?",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041777,
+        "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592754,
+        "title": "Political Parties क्या हैं? लोकतंत्र में संगठन, विचार और प्रतिनिधित्व की भूमिका",
+        "category": "Political Science"
+      }
+    ]
   },
   {
     "id": 9,
@@ -96,6 +269,31 @@
       "People-to-people और business exchanges बढ़ाने पर जोर दिया गया।",
       "BRICS 2026 में multilateralism और multipolarity से जुड़े विषयों पर भी चर्चा हुई।",
       "भारत-चीन संबंधों में सहयोग और रणनीतिक प्रतिस्पर्धा दोनों मौजूद हैं।"
+    ],
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 4,
+    "relatedArticles": [
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
     ]
   },
   {
@@ -119,7 +317,32 @@
       "Constructivism",
       "भारत के संदर्भ में International Relations"
     ],
-    "id": 1790755041770
+    "id": 1790755041770,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
@@ -141,7 +364,32 @@
       "पड़ोसी संबंध",
       "Economic Diplomacy"
     ],
-    "id": 1790755041771
+    "id": 1790755041771,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321602,
+        "title": "Hard Power और Soft Power क्या हैं? अंतरराष्ट्रीय राजनीति में शक्ति के बदलते रूप",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "संयुक्त राष्ट्र संगठन क्या है? उद्देश्य, संरचना, सुरक्षा परिषद और भारत की भूमिका",
@@ -164,7 +412,32 @@
       "भारत और UN",
       "Global Governance"
     ],
-    "id": 1790755041772
+    "id": 1790755041772,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755592757,
+        "title": "International Organizations क्या हैं? संयुक्त राष्ट्र और वैश्विक सहयोग की संस्थागत व्यवस्था",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755781647,
+        "title": "International Law क्या है? राज्यों और वैश्विक व्यवस्था में कानून की भूमिका",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755781648,
+        "title": "Global Governance क्या है? अंतरराष्ट्रीय समस्याओं में राज्यों और संस्थाओं की भूमिका",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755997574,
+        "title": "Climate Change और International Relations: पर्यावरण से वैश्विक राजनीति तक",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
@@ -186,7 +459,32 @@
       "Cooperative Federalism",
       "केंद्र-राज्य संबंध"
     ],
-    "id": 1790755041773
+    "id": 1790755041773,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
@@ -209,7 +507,32 @@
       "Parliamentary Committees",
       "President की भूमिका"
     ],
-    "id": 1790755041774
+    "id": 1790755041774,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491806,
+        "title": "भारतीय संसद और कार्यपालिका में अंतर: कानून, नीति और प्रशासन की संस्थागत भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
@@ -232,7 +555,32 @@
       "Rule of Law",
       "Accountability"
     ],
-    "id": 1790755041775
+    "id": 1790755041775,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321601,
+        "title": "Realism और Liberalism: International Relations के दो प्रमुख सिद्धांतों को सरल भाषा में समझें",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
@@ -254,7 +602,32 @@
       "Implementation",
       "Evaluation"
     ],
-    "id": 1790755041776
+    "id": 1790755041776,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321601,
+        "title": "Realism और Liberalism: International Relations के दो प्रमुख सिद्धांतों को सरल भाषा में समझें",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
@@ -276,7 +649,32 @@
       "Methodology",
       "Academic Integrity"
     ],
-    "id": 1790755041777
+    "id": 1790755041777,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755321609,
+        "title": "Political Science Research में Qualitative और Quantitative Methods का अंतर",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755491810,
+        "title": "PhD Research Proposal कैसे लिखें? Research Question से Methodology तक पूरी संरचना",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755491811,
+        "title": "Political Science में Literature Review कैसे करें? Sources, Research Gap और Academic Writing",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755592758,
+        "title": "Foreign Policy Research कैसे करें? Research Question, Sources और Comparative Analysis",
+        "category": "Research Methodology"
+      }
+    ]
   },
   {
     "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
@@ -297,7 +695,32 @@
       "आर्थिक संबंध विदेश नीति में महत्वपूर्ण हैं",
       "बहुपक्षीय संस्थाएं कूटनीति का महत्वपूर्ण माध्यम हैं"
     ],
-    "id": 1790755321600
+    "id": 1790755321600,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321602,
+        "title": "Hard Power और Soft Power क्या हैं? अंतरराष्ट्रीय राजनीति में शक्ति के बदलते रूप",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Realism और Liberalism: International Relations के दो प्रमुख सिद्धांतों को सरल भाषा में समझें",
@@ -318,7 +741,32 @@
       "दोनों theories अलग analytical perspectives देती हैं",
       "Theory का उपयोग research question के अनुसार किया जाना चाहिए"
     ],
-    "id": 1790755321601
+    "id": 1790755321601,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Hard Power और Soft Power क्या हैं? अंतरराष्ट्रीय राजनीति में शक्ति के बदलते रूप",
@@ -339,7 +787,32 @@
       "Soft Power attraction और persuasion से जुड़ा है",
       "Research में power को operationalize करना जरूरी है"
     ],
-    "id": 1790755321602
+    "id": 1790755321602,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Geopolitics क्या है? भूगोल, संसाधन, समुद्री मार्ग और शक्ति-संतुलन का संबंध",
@@ -360,7 +833,32 @@
       "ऊर्जा संसाधन geopolitical calculations को प्रभावित कर सकते हैं",
       "Modern geopolitics multidisciplinary विषय है"
     ],
-    "id": 1790755321603
+    "id": 1790755321603,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "मानवाधिकार और अंतरराष्ट्रीय राजनीति: अधिकार, राज्य और वैश्विक संस्थाओं का संबंध",
@@ -381,7 +879,32 @@
       "International institutions human rights norms को प्रभावित करती हैं",
       "Human rights research multidisciplinary हो सकती है"
     ],
-    "id": 1790755321604
+    "id": 1790755321604,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
@@ -402,7 +925,32 @@
       "Financial relations संघवाद का महत्वपूर्ण हिस्सा हैं",
       "Federalism का अध्ययन constitutional text और political practice दोनों से किया जाना चाहिए"
     ],
-    "id": 1790755321605
+    "id": 1790755321605,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
@@ -423,7 +971,32 @@
       "Checks and balances institutional relations को प्रभावित करते हैं",
       "Judicial research में judgments की reasoning का अध्ययन जरूरी है"
     ],
-    "id": 1790755321606
+    "id": 1790755321606,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
@@ -444,7 +1017,32 @@
       "Voting behaviour कई factors से प्रभावित हो सकता है",
       "Election research में official data और empirical evidence उपयोगी हैं"
     ],
-    "id": 1790755321607
+    "id": 1790755321607,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491809,
+        "title": "Panchayati Raj और Local Government: जमीनी स्तर पर लोकतांत्रिक शासन",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755592749,
+        "title": "भारतीय संविधान की प्रस्तावना: उद्देश्य, आदर्श और संवैधानिक महत्व",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
@@ -465,7 +1063,32 @@
       "Implementation policy outcomes को प्रभावित करती है",
       "Evaluation में measurable indicators जरूरी हैं"
     ],
-    "id": 1790755321608
+    "id": 1790755321608,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755592755,
+        "title": "Civil Society और NGOs: लोकतंत्र में सरकार के बाहर के संगठनों की भूमिका",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592756,
+        "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
+        "category": "Governance"
+      },
+      {
+        "id": 1790755781643,
+        "title": "Political Leadership क्या है? नेतृत्व, निर्णय और शासन की भूमिका",
+        "category": "Political Science"
+      }
+    ]
   },
   {
     "title": "Political Science Research में Qualitative और Quantitative Methods का अंतर",
@@ -486,7 +1109,32 @@
       "Quantitative methods numerical patterns को analyze करती हैं",
       "Mixed methods दोनों approaches को combine कर सकती हैं"
     ],
-    "id": 1790755321609
+    "id": 1790755321609,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Political Theory क्या है? अर्थ, प्रकृति, प्रमुख विचारक और आधुनिक राजनीति में महत्व",
@@ -507,7 +1155,32 @@
       "Classical और modern thinkers ने अलग-अलग political ideas विकसित किए",
       "Theory को contemporary politics से जोड़कर भी समझा जा सकता है"
     ],
-    "id": 1790755491801
+    "id": 1790755491801,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Liberalism, Socialism और Conservatism: तीन प्रमुख राजनीतिक विचारधाराओं की समझ",
@@ -528,7 +1201,32 @@
       "Conservatism tradition और gradual change को महत्व देता है",
       "हर ideology के भीतर भी अलग-अलग intellectual traditions मौजूद हैं"
     ],
-    "id": 1790755491802
+    "id": 1790755491802,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321601,
+        "title": "Realism और Liberalism: International Relations के दो प्रमुख सिद्धांतों को सरल भाषा में समझें",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755858694,
+        "title": "Political Ideology क्या है? विचारधारा, सत्ता और समाज को समझने की पूरी गाइड",
+        "category": "Political Theory"
+      },
+      {
+        "id": 1790755491801,
+        "title": "Political Theory क्या है? अर्थ, प्रकृति, प्रमुख विचारक और आधुनिक राजनीति में महत्व",
+        "category": "Political Theory"
+      }
+    ]
   },
   {
     "title": "State, Nation और Government में क्या अंतर है? Political Science की मूल अवधारणाएं",
@@ -549,7 +1247,32 @@
       "Nation shared identity से संबंधित concept है",
       "Conceptual clarity political research का महत्वपूर्ण आधार है"
     ],
-    "id": 1790755491803
+    "id": 1790755491803,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Sovereignty क्या है? राज्य की सर्वोच्च सत्ता और आधुनिक अंतरराष्ट्रीय व्यवस्था",
@@ -570,7 +1293,32 @@
       "Constitution authority के exercise को structure कर सकता है",
       "Globalization ने sovereignty पर नए research questions पैदा किए हैं"
     ],
-    "id": 1790755491804
+    "id": 1790755491804,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
@@ -591,7 +1339,32 @@
       "Rights की interpretation में judiciary की महत्वपूर्ण भूमिका है",
       "Research में constitutional और legal primary sources का उपयोग जरूरी है"
     ],
-    "id": 1790755491805
+    "id": 1790755491805,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "भारतीय संसद और कार्यपालिका में अंतर: कानून, नीति और प्रशासन की संस्थागत भूमिका",
@@ -612,7 +1385,32 @@
       "Parliamentary system में Executive और Legislature के बीच institutional relationship होता है",
       "Committees और parliamentary questions accountability mechanisms हैं"
     ],
-    "id": 1790755491806
+    "id": 1790755491806,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "भारत के राष्ट्रपति की संवैधानिक भूमिका: शक्तियां, कार्य और संसदीय व्यवस्था",
@@ -633,7 +1431,32 @@
       "Legislative process में President की भूमिका है",
       "Office of President को parliamentary system के संदर्भ में समझना चाहिए"
     ],
-    "id": 1790755491807
+    "id": 1790755491807,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "प्रधानमंत्री और Council of Ministers: भारतीय संसदीय कार्यपालिका कैसे काम करती है?",
@@ -654,7 +1477,32 @@
       "Ministers departments का political leadership प्रदान करते हैं",
       "Executive research में institutional और documentary evidence जरूरी है"
     ],
-    "id": 1790755491808
+    "id": 1790755491808,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Panchayati Raj और Local Government: जमीनी स्तर पर लोकतांत्रिक शासन",
@@ -675,7 +1523,32 @@
       "Local institutions की capacity research का महत्वपूर्ण विषय है",
       "Field research में ethics और participant privacy महत्वपूर्ण हैं"
     ],
-    "id": 1790755491809
+    "id": 1790755491809,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755592749,
+        "title": "भारतीय संविधान की प्रस्तावना: उद्देश्य, आदर्श और संवैधानिक महत्व",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "PhD Research Proposal कैसे लिखें? Research Question से Methodology तक पूरी संरचना",
@@ -696,7 +1569,32 @@
       "Theory और methodology research question से connected होनी चाहिए",
       "Proposal में expected contribution और feasibility स्पष्ट करनी चाहिए"
     ],
-    "id": 1790755491810
+    "id": 1790755491810,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Political Science में Literature Review कैसे करें? Sources, Research Gap और Academic Writing",
@@ -717,7 +1615,32 @@
       "Research gap कई forms में हो सकता है",
       "Literature research question को refine करने में मदद करता है"
     ],
-    "id": 1790755491811
+    "id": 1790755491811,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041777,
+        "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755491810,
+        "title": "PhD Research Proposal कैसे लिखें? Research Question से Methodology तक पूरी संरचना",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755997564,
+        "title": "Literature Review में Research Gap कैसे खोजें?",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755997565,
+        "title": "Academic Sources कैसे खोजें? Political Science Research के लिए Source Strategy",
+        "category": "Research Methodology"
+      }
+    ]
   },
   {
     "title": "भारतीय संविधान की प्रस्तावना: उद्देश्य, आदर्श और संवैधानिक महत्व",
@@ -738,7 +1661,32 @@
       "प्रस्तावना का अध्ययन constitutional philosophy से जुड़ा है",
       "Research में Constitution और judicial decisions primary sources हैं"
     ],
-    "id": 1790755592749
+    "id": 1790755592749,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "मौलिक अधिकार और नीति-निर्देशक तत्व: भारतीय संविधान में अधिकार और राज्य के लक्ष्य",
@@ -759,7 +1707,32 @@
       "दोनों के बीच constitutional relationship महत्वपूर्ण है",
       "Judicial decisions इस relationship को समझने में उपयोगी हैं"
     ],
-    "id": 1790755592750
+    "id": 1790755592750,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755592749,
+        "title": "भारतीय संविधान की प्रस्तावना: उद्देश्य, आदर्श और संवैधानिक महत्व",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "संसदीय समितियां क्या हैं? Parliament में scrutiny और accountability का महत्व",
@@ -780,7 +1753,32 @@
       "Department-related committees ministries पर scrutiny करती हैं",
       "Committee reports Political Science research के useful primary sources हैं"
     ],
-    "id": 1790755592751
+    "id": 1790755592751,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "सुप्रीम कोर्ट और संवैधानिक व्याख्या: Constitution की meaning कैसे विकसित होती है?",
@@ -801,7 +1799,32 @@
       "Judicial precedent constitutional research में महत्वपूर्ण source है",
       "Judgments का अध्ययन reasoning और facts सहित करना चाहिए"
     ],
-    "id": 1790755592752
+    "id": 1790755592752,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "भारत की चुनाव प्रणाली: निर्वाचन क्षेत्र, मतदान और प्रतिनिधित्व को समझें",
@@ -822,7 +1845,32 @@
       "Election Commission election administration में महत्वपूर्ण role निभाता है",
       "Official election data empirical research के लिए महत्वपूर्ण है"
     ],
-    "id": 1790755592753
+    "id": 1790755592753,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 3,
+        "title": "भारतीय संविधान और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Political Parties क्या हैं? लोकतंत्र में संगठन, विचार और प्रतिनिधित्व की भूमिका",
@@ -843,7 +1891,32 @@
       "Opposition parliamentary accountability में महत्वपूर्ण भूमिका निभा सकती है",
       "Party research में manifestos और electoral data useful sources हैं"
     ],
-    "id": 1790755592754
+    "id": 1790755592754,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Civil Society और NGOs: लोकतंत्र में सरकार के बाहर के संगठनों की भूमिका",
@@ -864,7 +1937,32 @@
       "Advocacy policy debates को प्रभावित कर सकती है",
       "Research में organization के claims और measurable outcomes अलग-अलग examine करने चाहिए"
     ],
-    "id": 1790755592755
+    "id": 1790755592755,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755592756,
+        "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
+        "category": "Governance"
+      },
+      {
+        "id": 1790755781638,
+        "title": "Political Participation क्या है? नागरिक राजनीति में कैसे भाग लेते हैं?",
+        "category": "Political Science"
+      }
+    ]
   },
   {
     "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
@@ -885,7 +1983,32 @@
       "Participation और responsiveness भी governance analysis में उपयोगी हैं",
       "Governance indicators की limitations को समझना जरूरी है"
     ],
-    "id": 1790755592756
+    "id": 1790755592756,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755491806,
+        "title": "भारतीय संसद और कार्यपालिका में अंतर: कानून, नीति और प्रशासन की संस्थागत भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "International Organizations क्या हैं? संयुक्त राष्ट्र और वैश्विक सहयोग की संस्थागत व्यवस्था",
@@ -906,7 +2029,32 @@
       "Institutions के formal powers और actual influence अलग हो सकते हैं",
       "Official resolutions और reports primary research sources हैं"
     ],
-    "id": 1790755592757
+    "id": 1790755592757,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041772,
+        "title": "संयुक्त राष्ट्र संगठन क्या है? उद्देश्य, संरचना, सुरक्षा परिषद और भारत की भूमिका",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755781647,
+        "title": "International Law क्या है? राज्यों और वैश्विक व्यवस्था में कानून की भूमिका",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755781648,
+        "title": "Global Governance क्या है? अंतरराष्ट्रीय समस्याओं में राज्यों और संस्थाओं की भूमिका",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755997572,
+        "title": "International Organizations की भूमिका: UN, IMF, World Bank और WTO को कैसे समझें",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Foreign Policy Research कैसे करें? Research Question, Sources और Comparative Analysis",
@@ -927,7 +2075,32 @@
       "Theory और methodology research question से connected होनी चाहिए",
       "Evidence और interpretation को अलग रखना जरूरी है"
     ],
-    "id": 1790755592758
+    "id": 1790755592758,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041777,
+        "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
+        "category": "Political Science"
+      }
+    ]
   },
   {
     "title": "Comparative Politics क्या है? राजनीतिक व्यवस्थाओं की तुलना और अध्ययन की पूरी समझ",
@@ -948,7 +2121,32 @@
       "Conceptual clarity comparison के लिए जरूरी है",
       "Qualitative और quantitative दोनों methods उपयोगी हो सकते हैं"
     ],
-    "id": 1790755704799
+    "id": 1790755704799,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Democracy के प्रकार: Direct, Representative और Participatory Democracy को समझें",
@@ -969,7 +2167,32 @@
       "Participatory Democracy wider citizen participation पर जोर देती है",
       "Democracy research में multiple indicators उपयोगी होते हैं"
     ],
-    "id": 1790755704800
+    "id": 1790755704800,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491809,
+        "title": "Panchayati Raj और Local Government: जमीनी स्तर पर लोकतांत्रिक शासन",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Separation of Powers और Checks and Balances: सत्ता के संस्थागत नियंत्रण को समझें",
@@ -990,7 +2213,32 @@
       "Different constitutional systems में arrangements अलग हो सकते हैं",
       "Constitutional text और political practice दोनों का अध्ययन जरूरी है"
     ],
-    "id": 1790755704801
+    "id": 1790755704801,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491801,
+        "title": "Political Theory क्या है? अर्थ, प्रकृति, प्रमुख विचारक और आधुनिक राजनीति में महत्व",
+        "category": "Political Theory"
+      },
+      {
+        "id": 1790755491804,
+        "title": "Sovereignty क्या है? राज्य की सर्वोच्च सत्ता और आधुनिक अंतरराष्ट्रीय व्यवस्था",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Rule of Law क्या है? कानून की सर्वोच्चता और लोकतांत्रिक शासन",
@@ -1011,7 +2259,32 @@
       "Rule of Law और Rule by Law में analytical difference है",
       "Research में measurable indicators carefully define करने चाहिए"
     ],
-    "id": 1790755704802
+    "id": 1790755704802,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491809,
+        "title": "Panchayati Raj और Local Government: जमीनी स्तर पर लोकतांत्रिक शासन",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Constitutionalism क्या है? सीमित सरकार, अधिकार और संवैधानिक शासन",
@@ -1032,7 +2305,32 @@
       "Rights और institutional checks इसके महत्वपूर्ण dimensions हैं",
       "Actual political practice का अध्ययन भी जरूरी है"
     ],
-    "id": 1790755704803
+    "id": 1790755704803,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491801,
+        "title": "Political Theory क्या है? अर्थ, प्रकृति, प्रमुख विचारक और आधुनिक राजनीति में महत्व",
+        "category": "Political Theory"
+      },
+      {
+        "id": 1790755491804,
+        "title": "Sovereignty क्या है? राज्य की सर्वोच्च सत्ता और आधुनिक अंतरराष्ट्रीय व्यवस्था",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Nationalism क्या है? राष्ट्रवाद के अर्थ, प्रकार और राजनीतिक प्रभाव",
@@ -1053,7 +2351,32 @@
       "Nationalism का historical context महत्वपूर्ण है",
       "Research में identity और political institutions के संबंध का अध्ययन किया जा सकता है"
     ],
-    "id": 1790755704804
+    "id": 1790755704804,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755491801,
+        "title": "Political Theory क्या है? अर्थ, प्रकृति, प्रमुख विचारक और आधुनिक राजनीति में महत्व",
+        "category": "Political Theory"
+      },
+      {
+        "id": 1790755491803,
+        "title": "State, Nation और Government में क्या अंतर है? Political Science की मूल अवधारणाएं",
+        "category": "Political Theory"
+      },
+      {
+        "id": 1790755491804,
+        "title": "Sovereignty क्या है? राज्य की सर्वोच्च सत्ता और आधुनिक अंतरराष्ट्रीय व्यवस्था",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755704801,
+        "title": "Separation of Powers और Checks and Balances: सत्ता के संस्थागत नियंत्रण को समझें",
+        "category": "Political Theory"
+      }
+    ]
   },
   {
     "title": "Political Socialization क्या है? व्यक्ति राजनीतिक विचार और मूल्य कैसे सीखता है?",
@@ -1074,7 +2397,32 @@
       "Socialization continuous process हो सकती है",
       "Research में correlation और causation को अलग रखना जरूरी है"
     ],
-    "id": 1790755704806
+    "id": 1790755704806,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Public Opinion क्या है? लोकतंत्र में जनमत का निर्माण और राजनीतिक महत्व",
@@ -1095,7 +2443,32 @@
       "Media political information और issue salience को प्रभावित कर सकता है",
       "Social media trends को पूरे population की opinion नहीं मानना चाहिए"
     ],
-    "id": 1790755704807
+    "id": 1790755704807,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491809,
+        "title": "Panchayati Raj और Local Government: जमीनी स्तर पर लोकतांत्रिक शासन",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Political Communication और Social Media: आधुनिक राजनीति में सूचना और संदेश का महत्व",
@@ -1116,7 +2489,22 @@
       "Misinformation research का महत्वपूर्ण issue है",
       "Social media metrics को political support का direct measure नहीं मानना चाहिए"
     ],
-    "id": 1790755704808
+    "id": 1790755704808,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755997569,
+        "title": "Political Journalism क्या है? राजनीति और मीडिया को समझने वाला Career Field",
+        "category": "Political Communication"
+      },
+      {
+        "id": 1790755997570,
+        "title": "Fact Checking क्या है? Political और News Content को Verify करने की प्रक्रिया",
+        "category": "Political Communication"
+      }
+    ]
   },
   {
     "title": "International Security क्या है? Traditional और Non-Traditional Security की विस्तृत समझ",
@@ -1137,7 +2525,32 @@
       "Human Security individuals और communities पर भी ध्यान देती है",
       "Security research में threat की operational definition जरूरी है"
     ],
-    "id": 1790755704809
+    "id": 1790755704809,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Political Participation क्या है? नागरिक राजनीति में कैसे भाग लेते हैं?",
@@ -1158,7 +2571,32 @@
       "Education और political interest participation को प्रभावित कर सकते हैं",
       "Digital platforms ने participation के नए forms बनाए हैं"
     ],
-    "id": 1790755781638
+    "id": 1790755781638,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491809,
+        "title": "Panchayati Raj और Local Government: जमीनी स्तर पर लोकतांत्रिक शासन",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Political Parties क्या हैं? लोकतंत्र में दलों की भूमिका और कार्य",
@@ -1179,7 +2617,32 @@
       "Party systems अलग-अलग देशों में अलग होते हैं",
       "Research में party organization और electoral competition का अध्ययन किया जा सकता है"
     ],
-    "id": 1790755781639
+    "id": 1790755781639,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491809,
+        "title": "Panchayati Raj और Local Government: जमीनी स्तर पर लोकतांत्रिक शासन",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Electoral Systems क्या हैं? First-Past-the-Post और Proportional Representation",
@@ -1200,7 +2663,27 @@
       "Proportional Representation vote-seat proportionality पर जोर देती है",
       "Electoral design party competition को प्रभावित कर सकता है"
     ],
-    "id": 1790755781640
+    "id": 1790755781640,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755781639,
+        "title": "Political Parties क्या हैं? लोकतंत्र में दलों की भूमिका और कार्य",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755704799,
+        "title": "Comparative Politics क्या है? राजनीतिक व्यवस्थाओं की तुलना और अध्ययन की पूरी समझ",
+        "category": "Comparative Politics"
+      }
+    ]
   },
   {
     "title": "Political Culture क्या है? नागरिकों के राजनीतिक विश्वास और व्यवहार को समझें",
@@ -1221,7 +2704,32 @@
       "Political efficacy citizens की perceived political influence से जुड़ी है",
       "Political culture समय के साथ बदल सकती है"
     ],
-    "id": 1790755781641
+    "id": 1790755781641,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Federalism क्या है? केंद्र और राज्यों के बीच सत्ता के वितरण की समझ",
@@ -1242,7 +2750,32 @@
       "Fiscal federalism finances के distribution का अध्ययन करता है",
       "India में Union-State relations constitutional framework का हिस्सा हैं"
     ],
-    "id": 1790755781642
+    "id": 1790755781642,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Political Leadership क्या है? नेतृत्व, निर्णय और शासन की भूमिका",
@@ -1263,7 +2796,32 @@
       "Formal authority और informal influence दोनों का अध्ययन किया जा सकता है",
       "Leadership research में structural factors महत्वपूर्ण हैं"
     ],
-    "id": 1790755781643
+    "id": 1790755781643,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755592755,
+        "title": "Civil Society और NGOs: लोकतंत्र में सरकार के बाहर के संगठनों की भूमिका",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592756,
+        "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
+        "category": "Governance"
+      }
+    ]
   },
   {
     "title": "Bureaucracy क्या है? प्रशासनिक व्यवस्था, Weber और आधुनिक शासन",
@@ -1284,7 +2842,32 @@
       "Bureaucracy policy implementation में भूमिका निभाती है",
       "Administrative accountability और transparency महत्वपूर्ण हैं"
     ],
-    "id": 1790755781644
+    "id": 1790755781644,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755592755,
+        "title": "Civil Society और NGOs: लोकतंत्र में सरकार के बाहर के संगठनों की भूमिका",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592756,
+        "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
+        "category": "Governance"
+      }
+    ]
   },
   {
     "title": "Public Administration क्या है? सरकार की नीतियों को लागू करने की प्रक्रिया",
@@ -1305,7 +2888,32 @@
       "Policy implementation में capacity और coordination महत्वपूर्ण हो सकते हैं",
       "Accountability और transparency public administration के महत्वपूर्ण dimensions हैं"
     ],
-    "id": 1790755781645
+    "id": 1790755781645,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755592755,
+        "title": "Civil Society और NGOs: लोकतंत्र में सरकार के बाहर के संगठनों की भूमिका",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592756,
+        "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
+        "category": "Governance"
+      }
+    ]
   },
   {
     "title": "Human Security क्या है? व्यक्ति-केंद्रित सुरक्षा की अवधारणा",
@@ -1326,7 +2934,32 @@
       "Human Security और Human Rights अलग analytical concepts हैं",
       "Broad security definitions में operational clarity जरूरी है"
     ],
-    "id": 1790755781646
+    "id": 1790755781646,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "International Law क्या है? राज्यों और वैश्विक व्यवस्था में कानून की भूमिका",
@@ -1347,7 +2980,32 @@
       "International disputes के लिए legal mechanisms मौजूद हैं",
       "Research में treaties और court decisions primary sources हो सकते हैं"
     ],
-    "id": 1790755781647
+    "id": 1790755781647,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041772,
+        "title": "संयुक्त राष्ट्र संगठन क्या है? उद्देश्य, संरचना, सुरक्षा परिषद और भारत की भूमिका",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Global Governance क्या है? अंतरराष्ट्रीय समस्याओं में राज्यों और संस्थाओं की भूमिका",
@@ -1368,7 +3026,32 @@
       "Global governance और world government अलग concepts हैं",
       "Legitimacy और accountability महत्वपूर्ण research questions हैं"
     ],
-    "id": 1790755781648
+    "id": 1790755781648,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041772,
+        "title": "संयुक्त राष्ट्र संगठन क्या है? उद्देश्य, संरचना, सुरक्षा परिषद और भारत की भूमिका",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Political Ideology क्या है? विचारधारा, सत्ता और समाज को समझने की पूरी गाइड",
@@ -1389,7 +3072,32 @@
       "Ideologies historical context में विकसित होती हैं",
       "Research में manifestos और political texts useful sources हैं"
     ],
-    "id": 1790755858694
+    "id": 1790755858694,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321601,
+        "title": "Realism और Liberalism: International Relations के दो प्रमुख सिद्धांतों को सरल भाषा में समझें",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755491801,
+        "title": "Political Theory क्या है? अर्थ, प्रकृति, प्रमुख विचारक और आधुनिक राजनीति में महत्व",
+        "category": "Political Theory"
+      },
+      {
+        "id": 1790755491802,
+        "title": "Liberalism, Socialism और Conservatism: तीन प्रमुख राजनीतिक विचारधाराओं की समझ",
+        "category": "Political Theory"
+      }
+    ]
   },
   {
     "title": "Power क्या है? Political Science में सत्ता की अवधारणा और प्रमुख दृष्टिकोण",
@@ -1410,7 +3118,32 @@
       "Authority में legitimacy का dimension महत्वपूर्ण है",
       "Agenda-setting भी power research का विषय हो सकता है"
     ],
-    "id": 1790755858695
+    "id": 1790755858695,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Legitimacy क्या है? राज्य और राजनीतिक सत्ता को वैधता कैसे मिलती है?",
@@ -1431,7 +3164,32 @@
       "Weber ने legitimate authority के forms पर चर्चा की",
       "Legitimacy के normative और empirical dimensions अलग किए जा सकते हैं"
     ],
-    "id": 1790755858696
+    "id": 1790755858696,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755491801,
+        "title": "Political Theory क्या है? अर्थ, प्रकृति, प्रमुख विचारक और आधुनिक राजनीति में महत्व",
+        "category": "Political Theory"
+      },
+      {
+        "id": 1790755491804,
+        "title": "Sovereignty क्या है? राज्य की सर्वोच्च सत्ता और आधुनिक अंतरराष्ट्रीय व्यवस्था",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Political Institutions क्या हैं? राज्य की संस्थाएं कैसे काम करती हैं?",
@@ -1452,7 +3210,32 @@
       "Institutional design political incentives को प्रभावित कर सकता है",
       "Formal rules और actual practice दोनों का अध्ययन जरूरी है"
     ],
-    "id": 1790755858697
+    "id": 1790755858697,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Civil-Military Relations क्या हैं? लोकतंत्र में सेना और राजनीतिक सत्ता का संबंध",
@@ -1473,7 +3256,32 @@
       "Defence policy और parliamentary oversight research sources हो सकते हैं",
       "Comparative analysis अलग political systems को समझने में मदद करता है"
     ],
-    "id": 1790755858698
+    "id": 1790755858698,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321603,
+        "title": "Geopolitics क्या है? भूगोल, संसाधन, समुद्री मार्ग और शक्ति-संतुलन का संबंध",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321607,
+        "title": "चुनाव और लोकतांत्रिक प्रतिनिधित्व: मतदाता, राजनीतिक दल और निर्वाचन प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755491805,
+        "title": "Citizenship और Fundamental Rights: नागरिकता, अधिकार और लोकतांत्रिक व्यवस्था",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "International Political Economy क्या है? राजनीति और वैश्विक अर्थव्यवस्था का संबंध",
@@ -1494,7 +3302,32 @@
       "Global economic institutions research का हिस्सा हैं",
       "State-market relationship IPE का central question है"
     ],
-    "id": 1790755858699
+    "id": 1790755858699,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Regional Organizations क्या हैं? क्षेत्रीय सहयोग और International Relations",
@@ -1515,7 +3348,32 @@
       "Regional integration की degree अलग-अलग हो सकती है",
       "Formal objectives और actual outcomes की तुलना useful है"
     ],
-    "id": 1790755858700
+    "id": 1790755858700,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Diplomacy क्या है? अंतरराष्ट्रीय संबंधों में बातचीत और प्रतिनिधित्व की भूमिका",
@@ -1536,7 +3394,32 @@
       "Public diplomacy foreign publics पर focus करती है",
       "Diplomacy foreign policy का एक महत्वपूर्ण instrument है"
     ],
-    "id": 1790755858701
+    "id": 1790755858701,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Foreign Aid क्या है? विकास, राजनीति और अंतरराष्ट्रीय सहयोग का अध्ययन",
@@ -1557,7 +3440,32 @@
       "Aid और foreign policy के संबंध का अध्ययन किया जाता है",
       "Aid effectiveness को evidence और evaluation से study करना चाहिए"
     ],
-    "id": 1790755858702
+    "id": 1790755858702,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Political Research में Case Study Method क्या है? उदाहरण, प्रक्रिया और सीमाएं",
@@ -1578,7 +3486,32 @@
       "Multiple sources और triangulation useful हैं",
       "Single case findings की generalizability सीमित हो सकती है"
     ],
-    "id": 1790755858703
+    "id": 1790755858703,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041777,
+        "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321609,
+        "title": "Political Science Research में Qualitative और Quantitative Methods का अंतर",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755491810,
+        "title": "PhD Research Proposal कैसे लिखें? Research Question से Methodology तक पूरी संरचना",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755592758,
+        "title": "Foreign Policy Research कैसे करें? Research Question, Sources और Comparative Analysis",
+        "category": "Research Methodology"
+      }
+    ]
   },
   {
     "title": "Political Science में Research Ethics क्या है? Academic Research के जरूरी सिद्धांत",
@@ -1599,7 +3532,32 @@
       "Plagiarism academic integrity के खिलाफ है",
       "Data fabrication और falsification से बचना आवश्यक है"
     ],
-    "id": 1790755858704
+    "id": 1790755858704,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755041777,
+        "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755858703,
+        "title": "Political Research में Case Study Method क्या है? उदाहरण, प्रक्रिया और सीमाएं",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755997564,
+        "title": "Literature Review में Research Gap कैसे खोजें?",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755321609,
+        "title": "Political Science Research में Qualitative और Quantitative Methods का अंतर",
+        "category": "Research Methodology"
+      }
+    ]
   },
   {
     "title": "Current Affairs कैसे पढ़ें? प्रतियोगी परीक्षाओं और Political Science के लिए सही तरीका",
@@ -1620,7 +3578,32 @@
       "Source और date record करें",
       "Facts के साथ conceptual understanding विकसित करें"
     ],
-    "id": 1790755997557
+    "id": 1790755997557,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Indian Constitution की विशेषताएं: संविधान को समझने की मूल बातें",
@@ -1641,7 +3624,32 @@
       "Fundamental Rights constitutional protections प्रदान करते हैं",
       "Constitutional provisions को institutions के context में पढ़ना चाहिए"
     ],
-    "id": 1790755997558
+    "id": 1790755997558,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Parliamentary Democracy क्या है? भारत की संसदीय शासन व्यवस्था की समझ",
@@ -1662,7 +3670,32 @@
       "Parliamentary committees oversight में भूमिका निभाती हैं",
       "Party system parliamentary functioning को प्रभावित कर सकता है"
     ],
-    "id": 1790755997559
+    "id": 1790755997559,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Good Governance के प्रमुख तत्व: Transparency, Accountability और Participation",
@@ -1683,7 +3716,32 @@
       "Citizen participation governance research का हिस्सा है",
       "Governance को multiple indicators से study किया जा सकता है"
     ],
-    "id": 1790755997560
+    "id": 1790755997560,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755491806,
+        "title": "भारतीय संसद और कार्यपालिका में अंतर: कानून, नीति और प्रशासन की संस्थागत भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "Public Policy और Government Scheme में अंतर क्या है?",
@@ -1704,7 +3762,32 @@
       "Implementation और evaluation अलग stages हैं",
       "Outcomes को measure करना जरूरी है"
     ],
-    "id": 1790755997561
+    "id": 1790755997561,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755592755,
+        "title": "Civil Society और NGOs: लोकतंत्र में सरकार के बाहर के संगठनों की भूमिका",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592756,
+        "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
+        "category": "Governance"
+      }
+    ]
   },
   {
     "title": "Policy Evaluation क्या है? सरकारी नीतियों के प्रभाव को कैसे मापें",
@@ -1725,7 +3808,32 @@
       "Impact evaluation causal effects पर focus करती है",
       "Evidence और research design महत्वपूर्ण हैं"
     ],
-    "id": 1790755997562
+    "id": 1790755997562,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755592755,
+        "title": "Civil Society और NGOs: लोकतंत्र में सरकार के बाहर के संगठनों की भूमिका",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592756,
+        "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
+        "category": "Governance"
+      }
+    ]
   },
   {
     "title": "Qualitative Interview कैसे लें? Political Science Research के लिए Practical Guide",
@@ -1746,7 +3854,32 @@
       "Informed consent जरूरी ethical principle है",
       "Coding और triangulation analysis को मजबूत कर सकते हैं"
     ],
-    "id": 1790755997563
+    "id": 1790755997563,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Literature Review में Research Gap कैसे खोजें?",
@@ -1767,7 +3900,32 @@
       "Literature matrix useful research tool है",
       "Gap को evidence के साथ justify करना चाहिए"
     ],
-    "id": 1790755997564
+    "id": 1790755997564,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041777,
+        "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321609,
+        "title": "Political Science Research में Qualitative और Quantitative Methods का अंतर",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755491810,
+        "title": "PhD Research Proposal कैसे लिखें? Research Question से Methodology तक पूरी संरचना",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755491811,
+        "title": "Political Science में Literature Review कैसे करें? Sources, Research Gap और Academic Writing",
+        "category": "Research Methodology"
+      }
+    ]
   },
   {
     "title": "Academic Sources कैसे खोजें? Political Science Research के लिए Source Strategy",
@@ -1788,7 +3946,32 @@
       "Source credibility evaluate करनी चाहिए",
       "Research notes systematic तरीके से बनाएं"
     ],
-    "id": 1790755997565
+    "id": 1790755997565,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Competitive Exams के लिए Indian Polity कैसे पढ़ें? एक व्यवस्थित Study Framework",
@@ -1809,7 +3992,32 @@
       "PYQs से practice करें",
       "Static Polity को current developments से जोड़ें"
     ],
-    "id": 1790755997566
+    "id": 1790755997566,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041773,
+        "title": "भारतीय संविधान और संघवाद: केंद्र और राज्यों के बीच शक्तियों का वितरण कैसे काम करता है?",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755041774,
+        "title": "भारतीय संसद कानून कैसे बनाती है? विधेयक से अधिनियम तक पूरी प्रक्रिया",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321605,
+        "title": "भारतीय संघवाद क्या है? केंद्र और राज्यों के बीच शक्तियों का संवैधानिक ढांचा",
+        "category": "Indian Polity"
+      },
+      {
+        "id": 1790755321606,
+        "title": "Judicial Review क्या है? भारतीय संविधान में न्यायिक समीक्षा की भूमिका",
+        "category": "Indian Polity"
+      }
+    ]
   },
   {
     "title": "UGC NET Political Science की तैयारी कैसे करें? Syllabus से Revision तक",
@@ -1830,7 +4038,32 @@
       "PYQs solve करें",
       "Latest official notification verify करें"
     ],
-    "id": 1790755997567
+    "id": 1790755997567,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Essay Writing कैसे सुधारें? Political Science और Competitive Exams के लिए Guide",
@@ -1851,7 +4084,32 @@
       "Counter-perspectives शामिल करें",
       "Timed writing practice करें"
     ],
-    "id": 1790755997568
+    "id": 1790755997568,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Political Journalism क्या है? राजनीति और मीडिया को समझने वाला Career Field",
@@ -1872,7 +4130,22 @@
       "Reporting और opinion writing अलग forms हैं",
       "Political Science research skills journalism में useful हैं"
     ],
-    "id": 1790755997569
+    "id": 1790755997569,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 2,
+    "relatedArticles": [
+      {
+        "id": 1790755704808,
+        "title": "Political Communication और Social Media: आधुनिक राजनीति में सूचना और संदेश का महत्व",
+        "category": "Political Communication"
+      },
+      {
+        "id": 1790755997570,
+        "title": "Fact Checking क्या है? Political और News Content को Verify करने की प्रक्रिया",
+        "category": "Political Communication"
+      }
+    ]
   },
   {
     "title": "Fact Checking क्या है? Political और News Content को Verify करने की प्रक्रिया",
@@ -1893,7 +4166,32 @@
       "Date और context verify करें",
       "Opinion और factual claim में अंतर करें"
     ],
-    "id": 1790755997570
+    "id": 1790755997570,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755592758,
+        "title": "Foreign Policy Research कैसे करें? Research Question, Sources और Comparative Analysis",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755704799,
+        "title": "Comparative Politics क्या है? राजनीतिक व्यवस्थाओं की तुलना और अध्ययन की पूरी समझ",
+        "category": "Comparative Politics"
+      },
+      {
+        "id": 1790755997569,
+        "title": "Political Journalism क्या है? राजनीति और मीडिया को समझने वाला Career Field",
+        "category": "Political Communication"
+      },
+      {
+        "id": 1790755997577,
+        "title": "Policy Brief क्या है? Research को Decision Makers तक पहुंचाने की पूरी प्रक्रिया",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Geopolitical Risk क्या है? International Politics में Risk Analysis",
@@ -1914,7 +4212,32 @@
       "Geography के साथ political और economic factors भी देखें",
       "Future scenarios को certainty की तरह present नहीं करना चाहिए"
     ],
-    "id": 1790755997571
+    "id": 1790755997571,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "International Organizations की भूमिका: UN, IMF, World Bank और WTO को कैसे समझें",
@@ -1936,7 +4259,32 @@
       "Formal mandate और actual performance की तुलना useful है",
       "Official reports और resolutions important sources हैं"
     ],
-    "id": 1790755997572
+    "id": 1790755997572,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755321604,
+        "title": "मानवाधिकार और अंतरराष्ट्रीय राजनीति: अधिकार, राज्य और वैश्विक संस्थाओं का संबंध",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755592757,
+        "title": "International Organizations क्या हैं? संयुक्त राष्ट्र और वैश्विक सहयोग की संस्थागत व्यवस्था",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755781648,
+        "title": "Global Governance क्या है? अंतरराष्ट्रीय समस्याओं में राज्यों और संस्थाओं की भूमिका",
+        "category": "International Relations"
+      },
+      {
+        "id": 2,
+        "title": "International Relations को समझना क्यों जरूरी है?",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Migration और International Relations: सीमाओं के पार लोगों की आवाजाही",
@@ -1957,7 +4305,32 @@
       "Migration governance में international cooperation महत्वपूर्ण है",
       "Human rights और sovereignty दोनों research dimensions हैं"
     ],
-    "id": 1790755997573
+    "id": 1790755997573,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755321600,
+        "title": "भारतीय विदेश नीति के निर्धारक: राष्ट्रीय हित, सुरक्षा, अर्थव्यवस्था और वैश्विक राजनीति",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Climate Change और International Relations: पर्यावरण से वैश्विक राजनीति तक",
@@ -1978,7 +4351,32 @@
       "Security relationship को carefully analyse करना चाहिए",
       "Multiple actors climate governance में भूमिका निभाते हैं"
     ],
-    "id": 1790755997574
+    "id": 1790755997574,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041771,
+        "title": "भारत की विदेश नीति: राष्ट्रीय हित, सुरक्षा और वैश्विक भूमिका को समझने की पूरी गाइड",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041772,
+        "title": "संयुक्त राष्ट्र संगठन क्या है? उद्देश्य, संरचना, सुरक्षा परिषद और भारत की भूमिका",
+        "category": "International Relations"
+      }
+    ]
   },
   {
     "title": "Election Research कैसे करें? चुनावी data और political behaviour का अध्ययन",
@@ -1999,7 +4397,32 @@
       "Election results voter motivation पूरी तरह नहीं बताते",
       "Official election data महत्वपूर्ण primary source है"
     ],
-    "id": 1790755997575
+    "id": 1790755997575,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041777,
+        "title": "Political Science में Research कैसे करें? Research Question से Literature Review तक पूरी प्रक्रिया",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755321609,
+        "title": "Political Science Research में Qualitative और Quantitative Methods का अंतर",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755491810,
+        "title": "PhD Research Proposal कैसे लिखें? Research Question से Methodology तक पूरी संरचना",
+        "category": "Research Methodology"
+      },
+      {
+        "id": 1790755592758,
+        "title": "Foreign Policy Research कैसे करें? Research Question, Sources और Comparative Analysis",
+        "category": "Research Methodology"
+      }
+    ]
   },
   {
     "title": "Political Science में Data Analysis की शुरुआत कैसे करें?",
@@ -2020,7 +4443,32 @@
       "Correlation causation नहीं साबित करती",
       "Method data और research question के अनुसार चुनें"
     ],
-    "id": 1790755997576
+    "id": 1790755997576,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 9,
+        "title": "BRICS 2026 के बाद भारत-चीन संबंध: मोदी-शी बैठक से क्या संकेत मिले?",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041770,
+        "title": "अंतरराष्ट्रीय संबंध क्या हैं? अर्थ, प्रकृति, क्षेत्र और प्रमुख सिद्धांतों की विस्तृत समझ",
+        "category": "International Relations"
+      },
+      {
+        "id": 1790755041775,
+        "title": "लोकतंत्र केवल चुनाव नहीं: लोकतांत्रिक शासन की संस्थाएं, अधिकार और जवाबदेही",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      }
+    ]
   },
   {
     "title": "Policy Brief क्या है? Research को Decision Makers तक पहुंचाने की पूरी प्रक्रिया",
@@ -2041,6 +4489,31 @@
       "Recommendations specific और actionable रखें",
       "Sources और limitations transparent रखें"
     ],
-    "id": 1790755997577
+    "id": 1790755997577,
+    "author": "Research Bharat Editorial Team",
+    "lastUpdated": "2026-09-30",
+    "readingTime": 1,
+    "relatedArticles": [
+      {
+        "id": 1790755041776,
+        "title": "Public Policy क्या है? सरकार की नीति कैसे बनती है और उसका मूल्यांकन कैसे किया जाता है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755321608,
+        "title": "Public Policy Cycle: सरकार की नीति कैसे बनती, लागू होती और evaluate की जाती है?",
+        "category": "Public Policy"
+      },
+      {
+        "id": 1790755592755,
+        "title": "Civil Society और NGOs: लोकतंत्र में सरकार के बाहर के संगठनों की भूमिका",
+        "category": "Political Science"
+      },
+      {
+        "id": 1790755592756,
+        "title": "Good Governance क्या है? पारदर्शिता, जवाबदेही और प्रभावी प्रशासन की अवधारणा",
+        "category": "Governance"
+      }
+    ]
   }
 ]
