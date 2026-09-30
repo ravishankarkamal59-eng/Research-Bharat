@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Research Bharat - Article</title>
+<title id="pageTitle">Research Bharat - Article</title>
+<meta id="pageDescription" name="description" content="Research Bharat पर शोधपरक जानकारी पढ़ें।">
 
 <style>
 *{
@@ -151,13 +152,18 @@ h1{
 
 async function loadArticle(){
 
-    const parts =
-        window.location.pathname.split("/").filter(Boolean);
+    const pathname = window.location.pathname;
+
+    const pathMatch =
+        pathname.match(/\/article\/([^/]+)/);
+
+    const queryId =
+        new URLSearchParams(window.location.search).get("id");
 
     const id =
-        parts.length > 1 && parts[0] === "article"
-        ? parts[1]
-        : new URLSearchParams(window.location.search).get("id");
+        pathMatch
+        ? decodeURIComponent(pathMatch[1])
+        : queryId;
 
     const box =
         document.getElementById("article");
@@ -173,7 +179,7 @@ async function loadArticle(){
     try{
 
         const response =
-            await fetch("/api/articles/" + id);
+            await fetch("https://research-bharat-backend.onrender.com/api/articles/" + id);
 
         const data =
             await response.json();
@@ -191,6 +197,17 @@ async function loadArticle(){
 
         document.title =
             article.title + " - Research Bharat";
+
+        const metaDescription =
+            document.getElementById("pageDescription");
+
+        if (metaDescription) {
+            metaDescription.setAttribute(
+                "content",
+                article.summary ||
+                "Research Bharat पर शोधपरक जानकारी पढ़ें।"
+            );
+        }
 
         const tags =
             article.tags && article.tags.length
