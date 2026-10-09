@@ -173,7 +173,7 @@ async function loadArticle(){
         new URLSearchParams(window.location.search).get("id");
 
     const id =
-        pathMatch
+        (pathMatch && pathMatch[1] !== "article.html")
         ? decodeURIComponent(pathMatch[1])
         : queryId;
 
