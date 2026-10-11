@@ -211,7 +211,7 @@ async function loadArticle(){
             article.title + " - Research Bharat";
 
         const canonicalUrl =
-            window.location.origin + window.location.pathname;
+            window.location.origin + window.location.pathname + window.location.search;
 
         const canonicalTag =
             document.getElementById("canonicalTag");
@@ -551,7 +551,7 @@ loadArticle();
                 relatedArticles
                     .map(item => `
                         <a class="rb-related-card"
-                           href="/article/${item.id}">
+                           href="/article?id=${encodeURIComponent(item.id)}">
                             <strong>
                                 ${item.title}
                             </strong>

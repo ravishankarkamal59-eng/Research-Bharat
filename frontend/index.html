@@ -439,7 +439,7 @@ function renderArticles(){
         button.className = "read";
         button.textContent = "पूरा पढ़ें";
 
-        button.onclick = () => { window.location.href = "/article/" + article.id; };
+        button.onclick = () => { window.location.href = "/article?id=" + encodeURIComponent(article.id); };
 
         div.appendChild(category);
         div.appendChild(title);
